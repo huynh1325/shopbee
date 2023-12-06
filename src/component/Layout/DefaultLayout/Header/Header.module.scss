@@ -1,4 +1,16 @@
 .wrapper {
   height: 119px;
-  background-image: (0, #fe6433, #f53e2d);
+  background-image: linear-gradient(0, #fe6433, #f53e2d);
+}
+
+.header_navbar_list {
+  list-style: none;
+  padding-top: 20px;
+  margin-left: 1000px;
+}
+
+.header_nav_item {
+  display: inline;
+  margin: 0 10px;
+  color: #fff;
 }
